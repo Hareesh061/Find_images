@@ -1,5 +1,7 @@
 # Find_images
+
 Web application for to search the images using API's.
+
 
 **APIs increase business agility. By abstracting away the underlying complexity of a service and presenting it as a product, APIs give organizations secure access to data, services, and operating systems that drive innovation for internal partners and third-party consumers.**
 
@@ -11,4 +13,4 @@ The language-independent nature of APIs enables rapid development and deployment
 **link: https://650919b61e69135ead2dda10--ephemeral-torrone-b35279.netlify.app**
 
 
-# make change in api to work properly.😁😁🧑‍💻
+# make change in api to work properly.😁🧑‍💻
